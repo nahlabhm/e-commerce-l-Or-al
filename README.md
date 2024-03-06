@@ -1,15 +1,7 @@
 # makeup
 
-A new Flutter project.
+![Screenshot_20240306-214301](https://github.com/nahlabhm/e-commerce-l-Or-al/assets/49809803/ee713a4f-ee6f-4b22-a765-440009735258)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
